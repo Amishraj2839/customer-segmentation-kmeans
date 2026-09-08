@@ -1,0 +1,3 @@
+Customer Segmentation - Live App
+
+https://customer-segmentation-kmeans-xj27gsjio72r9flx9arde8.streamlit.app
